@@ -42,7 +42,7 @@ If you only need the automated app installer and basic optimization features wit
 
 | Requirement | Details |
 |---|---|
-| OS | Windows 10 (2004+) or Windows 11 |
+| OS | Windows 10 (2004+) or Windows 11 (Linux Support Coming Soon) |
 | Framework | .NET 8.0 Desktop Runtime |
 | Privileges | Administrator (required for hardware diagnostics and deep system tweaks) |
 | Internet | Required for update checks and fetching hardware/package metadata |
