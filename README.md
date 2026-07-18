@@ -13,7 +13,9 @@
 ---
 
 ## 📸 See it in Action
-<img width="981" height="673" alt="image" src="https://github.com/user-attachments/assets/4de4a33d-5f84-41e0-9c67-a768d122fa08" />
+<img width="984" height="664" alt="image" src="https://github.com/user-attachments/assets/bea16b64-751a-4f03-b4fc-65f8a353b0c2" />  <img width="984" height="677" alt="image" src="https://github.com/user-attachments/assets/fca08442-06b7-4e34-8f6c-6ffd89a9738f" />
+
+
 *Note: This interface is currently under development and may change before the actual release.*
 
 
