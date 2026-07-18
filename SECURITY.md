@@ -3,8 +3,14 @@
 
 ## Supported Versions
 
-The following versions of **FTT Optimization and App Installer** are currently receiving security updates:
 
+The following versions of **FTT Suite** are currently receiving security updates:
+
+| Version | Supported          |
+| ------- | ------------------ |
+| 0   | :white_check_mark: |
+
+The following versions of **FTT Optimization and App Installer** are currently receiving security updates:
 | Version | Supported          |
 | ------- | ------------------ |
 | 1.1   | :white_check_mark: |
@@ -13,11 +19,7 @@ The following versions of **FTT Optimization and App Installer** are currently r
 | 1.0     | :x: |
 | < 1.0   | :x:                |
 
-The following versions of **FTT Suite** are currently receiving security updates:
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 0   | :white_check_mark: |
 
 ## Reporting a Vulnerability
 
