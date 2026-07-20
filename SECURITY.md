@@ -8,7 +8,7 @@ The following versions of **FTT Suite** are currently receiving security updates
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.0 (Coming July 20)   | :white_check_mark: |
+| 1.0  | :white_check_mark: |
 
 The following versions of **FTT Optimization and App Installer** are currently receiving security updates:
 | Version | Supported          |
