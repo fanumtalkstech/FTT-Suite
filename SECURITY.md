@@ -8,7 +8,8 @@ The following versions of **FTT Suite** are currently receiving security updates
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 2.0  | :white_check_mark: |
+| 2.0.1 | :white_check_mark: |
+| 2.0  | :x: |
 | 2.0 Beta 1  | :x: |
 | 1.0  | :x: |
 
